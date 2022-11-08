@@ -1,0 +1,5 @@
+favorite movie = Fight club
+favorite show = Breaking Bad
+favorite food = meat and fish
+favorite season = summer
+favorite country = Italy
