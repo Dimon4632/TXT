@@ -1,0 +1,4 @@
+Name = Dmitriy
+Age = 40
+cats = 1
+salary = 4000
